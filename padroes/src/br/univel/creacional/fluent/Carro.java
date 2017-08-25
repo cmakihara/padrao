@@ -1,4 +1,4 @@
-package br.univel.creacional;
+package br.univel.creacional.fluent;
 
 public class Carro {
 	
